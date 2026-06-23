@@ -1,17 +1,19 @@
-# John Pham Portfolio Template
+# Minh Tuan Pham Portfolio
 
-Simple portfolio website built with HTML, CSS, and JavaScript.
+Personal software developer portfolio built with HTML, CSS, and JavaScript.
 
-## Run locally
+## Live Portfolio
 
-Open `index.html` in your browser.
+https://jpham2005.github.io/Minh-Tuan-Pham---Portfolio/
 
-## Edit content
+## Sections
 
-- Edit text in `index.html`
-- Edit design in `styles.css`
-- Edit mobile menu logic in `script.js`
+- About Me
+- Featured Projects
+- Skills
+- Experience
+- Contact
 
-## Deploy free
+## Author
 
-Use GitHub Pages, Netlify, or Vercel.
+Minh Tuan Pham
